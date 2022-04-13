@@ -8,4 +8,5 @@ function maior_menor() {
     }else if (dadoB>dadoA)
     document.getElementById('resp').innerHTML = `Maior é: ${dadoB}`
 
+    /*comentar que para efeito de pratica, alterando linha pra subri um branch nova*/
 }
